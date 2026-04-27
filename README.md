@@ -1,5 +1,4 @@
-# Mapping the Lexicon of Hate
-### Offensive Language Structure in Korean Online Discourse
+# Mapping the Lexicon of Hate : Offensive Language Structure in Korean Online Discourse
 *Research Paper | University of Tübingen, 2025–2026*
 
 ## Overview
