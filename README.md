@@ -13,7 +13,7 @@ deeper questions:
 - **Which groups** are attacked together? (co-targeting network)
 - **How** are they attacked? (offensive framing patterns)
 
-- 
+
 ## Approach
 Three-layer analysis framework designed independently:
 
