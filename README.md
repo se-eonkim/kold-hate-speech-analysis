@@ -1,6 +1,14 @@
 # Mapping the Lexicon of Hate : Offensive Language Structure in Korean Online Discourse
 *Research Paper | University of Tübingen, 2025–2026*
 
+## Collaborative Context
+This study was conducted as part of a cross-linguistic 
+project at University of Tübingen, comparing offensive 
+language structures across Korean, Italian, and Sinhala.
+
+- Full project repository: 
+  [Taboo-Language](https://github.com/FrancescaRomanaBlanda/Taboo-Language)
+
 ## Overview
 Korean offensive language is not random profanity — 
 it is a structured system of framing strategies shaped 
@@ -73,7 +81,4 @@ same story:
 - Python, NetworkX, Pandas, Matplotlib
 - Dataset: KOLD (Jeong et al., 2022)
 
-## Cross-linguistic Context
-Conducted in collaboration with peers analyzing 
-Italian and Sinhala offensive language datasets, 
-enabling structural comparison across language contexts.
+
