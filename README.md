@@ -83,3 +83,17 @@ same story:
 - Dataset: KOLD (Jeong et al., 2022)
 
 
+## Follow-up Work
+
+Two findings here — female as the structural betweenness hub, and the
+criminalization frame on Black targets as an imported (not locally
+experienced) bias — were later carried into a broader study that revisits
+this analysis with a more rigorous method and wider scope:
+[KOSSDA hate-speech-as-grammar project](https://github.com/se-eonkim/KOSSDA).
+
+That follow-up replaces the concept-taxonomy frame coding used here with
+log-odds ratio significance testing (Monroe et al., 2008), and extends the
+single-layer language analysis into a three-layer design spanning social
+survey data, language structure, and AI model embeddings.
+
+
